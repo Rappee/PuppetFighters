@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"fred zipper base instantie 10000":
+{
+	"frame": {"x":8,"y":8,"w":18,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":12},
+	"sourceSize": {"w":18,"h":12}
+},
+"fred zipper base instantie 10001":
+{
+	"frame": {"x":36,"y":8,"w":12,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":12},
+	"sourceSize": {"w":18,"h":12}
+},
+"fred zipper tip instantie 10000":
+{
+	"frame": {"x":8,"y":30,"w":8,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":8,"h":16}
+},
+"fred zipper tip instantie 10001":
+{
+	"frame": {"x":26,"y":30,"w":6,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":8,"h":16}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "zipper.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":64},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"leg fall left instantie 10000":
+{
+	"frame": {"x":8,"y":49,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":35},
+	"sourceSize": {"w":26,"h":35}
+},
+"leg fall right instantie 10000":
+{
+	"frame": {"x":8,"y":8,"w":33,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":31},
+	"sourceSize": {"w":33,"h":31}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "legs landing.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1"
+}
+}

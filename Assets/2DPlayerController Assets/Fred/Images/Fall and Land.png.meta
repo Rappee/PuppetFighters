@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 852cdd24d3d53e44d9d4beb942f0bdf6
+timeCreated: 1520541423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fred jump vertical_0
+    21300002: trans1
+    21300004: trans2
+    21300006: trans3
+    21300008: trans6
+    21300010: trans5
+    21300012: landing3
+    21300014: falling
+    21300016: landing1
+    21300018: landing2
+    21300020: landing4
+    21300022: landing5
+    21300024: landing7
+    21300026: landing6
+    21300028: trans4
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fred jump vertical_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 784
+        width: 251
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: -116}
+        - {x: 85.5, y: -71}
+        - {x: 125.5, y: -13}
+        - {x: 125.5, y: 75}
+        - {x: 75.5, y: 120}
+        - {x: 18.5, y: 120}
+        - {x: 15.5, y: 115}
+        - {x: 15.5, y: 105}
+        - {x: -45.5, y: 98}
+        - {x: -125.5, y: -54}
+        - {x: -125.5, y: -70}
+        - {x: -120.5, y: -72}
+        - {x: -113.5, y: -73}
+        - {x: -68.5, y: -72}
+        - {x: -51.5, y: -68}
+        - {x: -47.5, y: -67}
+        - {x: -34.5, y: -64}
+        - {x: -28.5, y: -62}
+        - {x: -23.5, y: -107}
+        - {x: -15.5, y: -114}
+        - {x: -7.5, y: -114}
+        - {x: -2.5, y: -107}
+        - {x: -3.5, y: -101}
+        - {x: 23.5, y: -120}
+        - {x: 34.5, y: -120}
+        - {x: 52.5, y: -105}
+        - {x: 56.5, y: -89}
+        - {x: 54.5, y: -103}
+      - - {x: -1.5, y: -52}
+        - {x: 0.5, y: -52}
+        - {x: -0.5, y: -53}
+        - {x: -0.5, y: -52}
+      - - {x: 55.5, y: -37}
+        - {x: 56.5, y: -36}
+        - {x: 62.5, y: -35}
+        - {x: 62.5, y: -34}
+        - {x: 60.5, y: -35}
+        - {x: 59.5, y: -36}
+        - {x: 52.5, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trans1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 784
+        width: 221
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: -110}
+        - {x: 72.5, y: -100}
+        - {x: 68.5, y: -105}
+        - {x: 68.5, y: -109}
+        - {x: 72.5, y: -119}
+        - {x: 90.5, y: -113}
+        - {x: 118.5, y: -45}
+        - {x: 118.5, y: 56}
+        - {x: 94.5, y: 120}
+        - {x: 56.5, y: 120}
+        - {x: 52.5, y: 115}
+        - {x: 0.5, y: 117}
+        - {x: -11.5, y: 98}
+        - {x: -118.5, y: -97}
+        - {x: -118.5, y: -109}
+        - {x: -101.5, y: -112}
+        - {x: -57.5, y: -104}
+        - {x: 5.5, y: -75}
+        - {x: 7.5, y: -68}
+        - {x: 10.5, y: -62}
+        - {x: 10.5, y: -61}
+        - {x: 10.5, y: -64}
+        - {x: 7.5, y: -70}
+        - {x: -8.5, y: -110}
+        - {x: -5.5, y: -120}
+        - {x: 12.5, y: -120}
+        - {x: 11.5, y: -110}
+        - {x: 29.5, y: -116}
+        - {x: 51.5, y: -117}
+      - - {x: 16.5, y: -52}
+        - {x: 16.5, y: -50}
+        - {x: 12.5, y: -58}
+        - {x: 13.5, y: -58}
+      - - {x: 53.5, y: -37}
+        - {x: 60.5, y: -38}
+        - {x: 61.5, y: -39}
+        - {x: 52.5, y: -39}
+      - - {x: -118.5, y: 2}
+        - {x: -115.5, y: 3}
+        - {x: -115.5, y: 10}
+        - {x: -117.5, y: 12}
+        - {x: -118.5, y: 12}
+      - - {x: -118.5, y: 16}
+        - {x: -115.5, y: 17}
+        - {x: -115.5, y: 20}
+        - {x: -117.5, y: 22}
+        - {x: -118.5, y: 22}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trans2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 786
+        width: 242
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -109}
+        - {x: 77, y: -118}
+        - {x: 81, y: -119}
+        - {x: 114, y: -119}
+        - {x: 121, y: -97}
+        - {x: 121, y: 53}
+        - {x: 80, y: 100}
+        - {x: 76, y: 102}
+        - {x: 76, y: 101}
+        - {x: 78, y: 102}
+        - {x: 81, y: 106}
+        - {x: 86, y: 118}
+        - {x: 85, y: 119}
+        - {x: -15, y: 119}
+        - {x: -121, y: -82}
+        - {x: -121, y: -90}
+        - {x: -113, y: -95}
+        - {x: -83, y: -99}
+        - {x: 6, y: -76}
+        - {x: -7, y: -110}
+        - {x: -8, y: -119}
+        - {x: 58, y: -119}
+        - {x: 67, y: -113}
+        - {x: 77, y: -97}
+        - {x: 74, y: -105}
+      - - {x: 56, y: -38}
+        - {x: 62, y: -39}
+        - {x: 64, y: -40}
+        - {x: 55, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trans3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 786
+        width: 248
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 119}
+        - {x: -124, y: 14}
+        - {x: -124, y: -111}
+        - {x: -115, y: -116}
+        - {x: -93, y: -119}
+        - {x: 119, y: -119}
+        - {x: 124, y: -100}
+        - {x: 124, y: 107}
+        - {x: 110, y: 119}
+      - - {x: 80, y: -97}
+        - {x: 82, y: -98}
+        - {x: 79, y: -100}
+        - {x: 80, y: -100}
+      - - {x: 58, y: -38}
+        - {x: 64, y: -39}
+        - {x: 66, y: -40}
+        - {x: 57, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trans6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 539
+        width: 209
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 25, w: 0}
+      outline:
+      - - {x: 49, y: 122}
+        - {x: 48, y: 109}
+        - {x: 4, y: 118}
+        - {x: -7, y: 117}
+        - {x: -14, y: 110}
+        - {x: -13, y: 100}
+        - {x: -6, y: -15}
+        - {x: 0, y: -27}
+        - {x: -9, y: -16}
+        - {x: -17, y: -15}
+        - {x: -102, y: 61}
+        - {x: -107, y: 59}
+        - {x: -107, y: 2}
+        - {x: -104, y: 3}
+        - {x: -101, y: 17}
+        - {x: -19, y: -122}
+        - {x: 63, y: -122}
+        - {x: 107, y: -99}
+        - {x: 107, y: 104}
+        - {x: 73, y: 122}
+      - - {x: 41, y: -34}
+        - {x: 42, y: -35}
+        - {x: 53, y: -36}
+        - {x: 52, y: -36}
+        - {x: 42, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trans5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 544
+        width: 210
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 60.5}
+        - {x: 81, y: 119.5}
+        - {x: 7, y: 119.5}
+        - {x: -22, y: 109.5}
+        - {x: -8, y: -17.5}
+        - {x: -2, y: -29.5}
+        - {x: -12, y: -19.5}
+        - {x: -13, y: 8.5}
+        - {x: -107, y: 60.5}
+        - {x: -107, y: 21.5}
+        - {x: -11, y: -99.5}
+        - {x: 13, y: -119.5}
+        - {x: 62, y: -119.5}
+        - {x: 79, y: -112.5}
+        - {x: 81, y: -85.5}
+        - {x: 71, y: -76.5}
+        - {x: 107, y: -29.5}
+      - - {x: 39, y: -36.5}
+        - {x: 40, y: -37.5}
+        - {x: 51, y: -38.5}
+        - {x: 50, y: -38.5}
+        - {x: 40, y: -39.5}
+      - - {x: -107, y: 9.5}
+        - {x: -104, y: 10.5}
+        - {x: -104, y: 30.5}
+        - {x: -106, y: 32.5}
+        - {x: -107, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 315
+        width: 218
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -98}
+        - {x: -7, y: -98}
+        - {x: -7, y: -85}
+        - {x: -3, y: -95}
+        - {x: -1, y: -97}
+        - {x: 3, y: -97}
+        - {x: 7, y: -102}
+        - {x: 30, y: -112}
+        - {x: 69, y: -112}
+        - {x: 80, y: -108}
+        - {x: 79, y: -102}
+        - {x: 73, y: -98}
+        - {x: 93, y: -59}
+        - {x: 111, y: -20}
+        - {x: 111, y: 84}
+        - {x: 88, y: 112}
+        - {x: -15, y: 112}
+        - {x: -18, y: 110}
+        - {x: -111, y: -83}
+        - {x: -111, y: -112}
+        - {x: -2, y: -112}
+        - {x: 3, y: -111}
+        - {x: 6, y: -106}
+        - {x: 6, y: -102}
+        - {x: 3, y: -99}
+      - - {x: 49, y: -101}
+        - {x: 50, y: -101}
+        - {x: 59, y: -93}
+        - {x: 60, y: -90}
+        - {x: 59, y: -86}
+        - {x: 57, y: -96}
+        - {x: 53, y: -99}
+        - {x: 50, y: -100}
+        - {x: 47, y: -103}
+        - {x: 49, y: -104}
+      - - {x: 108, y: -68}
+        - {x: 110, y: -70}
+        - {x: 111, y: -70}
+        - {x: 111, y: -65}
+        - {x: 109, y: -65}
+      - - {x: -111, y: 40}
+        - {x: -111, y: -1}
+        - {x: -107, y: -1}
+        - {x: -106, y: 17}
+        - {x: -106, y: 39}
+        - {x: -110, y: 40}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: falling
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 539
+        width: 212
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 122}
+        - {x: -107, y: 80}
+        - {x: -107, y: 33}
+        - {x: -103, y: 28}
+        - {x: -34, y: -46}
+        - {x: -23, y: -44}
+        - {x: -22, y: -41}
+        - {x: -7, y: -91}
+        - {x: -2, y: -101}
+        - {x: 5, y: -107}
+        - {x: -13, y: -106}
+        - {x: -15, y: -118}
+        - {x: -14, y: -122}
+        - {x: 107, y: -122}
+        - {x: 107, y: 68}
+        - {x: 71, y: 122}
+      - - {x: 39, y: -34}
+        - {x: 40, y: -35}
+        - {x: 51, y: -36}
+        - {x: 50, y: -36}
+        - {x: 40, y: -37}
+      - - {x: -107, y: 15}
+        - {x: -104, y: 16}
+        - {x: -104, y: 34}
+        - {x: -106, y: 36}
+        - {x: -107, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 220
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -90}
+        - {x: 57, y: -92}
+        - {x: 57, y: -96}
+        - {x: 56, y: -97}
+        - {x: 47, y: -104}
+        - {x: 47, y: -108}
+        - {x: 49, y: -110}
+        - {x: 73, y: -110}
+        - {x: 77, y: -106}
+        - {x: 78, y: -102}
+        - {x: 72, y: -98}
+        - {x: 66, y: -74}
+        - {x: 86, y: -55}
+        - {x: 109, y: -29}
+        - {x: 110, y: -18}
+        - {x: 110, y: 57}
+        - {x: 91, y: 112}
+        - {x: -3, y: 112}
+        - {x: -110, y: -78}
+        - {x: -110, y: -112}
+        - {x: 5, y: -112}
+        - {x: 5, y: -102}
+        - {x: 2, y: -99}
+        - {x: -2, y: -98}
+        - {x: -8, y: -98}
+        - {x: -8, y: -85}
+        - {x: -4, y: -95}
+        - {x: -2, y: -97}
+        - {x: 1, y: -98}
+        - {x: 15, y: -108}
+        - {x: 31, y: -112}
+        - {x: 46, y: -112}
+        - {x: 47, y: -102}
+        - {x: 50, y: -100}
+        - {x: 57, y: -93}
+      - - {x: 107, y: -107}
+        - {x: 109, y: -109}
+        - {x: 110, y: -109}
+        - {x: 110, y: -104}
+        - {x: 108, y: -104}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 315
+        width: 220
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -107}
+        - {x: 29, y: -112}
+        - {x: 91, y: -112}
+        - {x: 111, y: -69}
+        - {x: 111, y: 98}
+        - {x: 89, y: 112}
+        - {x: 64, y: 112}
+        - {x: 54, y: 108}
+        - {x: 37, y: 112}
+        - {x: 4, y: 112}
+        - {x: 0, y: 107}
+        - {x: 1, y: 98}
+        - {x: -111, y: -102}
+        - {x: -111, y: -112}
+        - {x: 7, y: -112}
+        - {x: 7, y: -101}
+        - {x: 0, y: -97}
+        - {x: -3, y: -94}
+      - - {x: 108, y: -110}
+        - {x: 110, y: -112}
+        - {x: 111, y: -112}
+        - {x: 111, y: -106}
+        - {x: 108, y: -107}
+      - - {x: 49, y: -101}
+        - {x: 50, y: -101}
+        - {x: 59, y: -93}
+        - {x: 60, y: -90}
+        - {x: 59, y: -86}
+        - {x: 57, y: -96}
+        - {x: 53, y: -99}
+        - {x: 50, y: -100}
+        - {x: 47, y: -103}
+        - {x: 49, y: -104}
+      - - {x: -111, y: 15}
+        - {x: -108, y: 16}
+        - {x: -108, y: 22}
+        - {x: -110, y: 24}
+        - {x: -111, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 306
+        width: 236
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -106}
+        - {x: 61, y: -110}
+        - {x: 61, y: -114}
+        - {x: 66, y: -117}
+        - {x: 90, y: -117}
+        - {x: 94, y: -106}
+        - {x: 111, y: -52}
+        - {x: 119, y: -17}
+        - {x: 119, y: 76}
+        - {x: 87, y: 117}
+        - {x: -28, y: 117}
+        - {x: -119, y: -19}
+        - {x: -119, y: -82}
+        - {x: -4, y: -117}
+        - {x: 9, y: -117}
+        - {x: 16, y: -115}
+        - {x: 18, y: -111}
+        - {x: 18, y: -106}
+        - {x: 14, y: -104}
+        - {x: 16, y: -105}
+        - {x: 29, y: -112}
+        - {x: 48, y: -117}
+        - {x: 60, y: -117}
+        - {x: 61, y: -115}
+        - {x: 61, y: -111}
+        - {x: 60, y: -107}
+      - - {x: -119, y: 20}
+        - {x: -116, y: 21}
+        - {x: -116, y: 27}
+        - {x: -118, y: 29}
+        - {x: -119, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 239
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: -117}
+        - {x: 87.5, y: -117}
+        - {x: 92.5, y: -108}
+        - {x: 71.5, y: -46}
+        - {x: 65.5, y: -47}
+        - {x: 76.5, y: -43}
+        - {x: 100.5, y: -52}
+        - {x: 119.5, y: -27}
+        - {x: 119.5, y: 54}
+        - {x: 94.5, y: 117}
+        - {x: 12.5, y: 117}
+        - {x: -2.5, y: 111}
+        - {x: -119.5, y: -21}
+        - {x: -119.5, y: -52}
+        - {x: -22.5, y: -117}
+        - {x: 16.5, y: -117}
+        - {x: 21.5, y: -112}
+        - {x: 18.5, y: -106}
+        - {x: 29.5, y: -112}
+      - - {x: 63.5, y: -107}
+        - {x: 69.5, y: -100}
+        - {x: 68.5, y: -101}
+        - {x: 63.5, y: -105}
+        - {x: 60.5, y: -107}
+        - {x: 61.5, y: -108}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 64
+        width: 223
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 223, w: 0}
+      outline:
+      - - {x: 111.5, y: 85}
+        - {x: 80.5, y: 120}
+        - {x: -43.5, y: 120}
+        - {x: -111.5, y: 47}
+        - {x: -111.5, y: -27}
+        - {x: -25.5, y: -120}
+        - {x: 67.5, y: -120}
+        - {x: 71.5, y: -112}
+        - {x: 111.5, y: -22}
+      - - {x: 52.5, y: -105}
+        - {x: 54.5, y: -105}
+        - {x: 51.5, y: -107}
+        - {x: 52.5, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: landing6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 236
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: trans4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 242
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

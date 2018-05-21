@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"fred wall jump instantie 10000":
+{
+	"frame": {"x":8,"y":8,"w":129,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":1,"w":178,"h":327},
+	"sourceSize": {"w":178,"h":327}
+},
+"fred wall jump instantie 10001":
+{
+	"frame": {"x":147,"y":8,"w":118,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":178,"h":327},
+	"sourceSize": {"w":178,"h":327}
+},
+"fred wall jump instantie 10002":
+{
+	"frame": {"x":275,"y":8,"w":152,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":178,"h":327},
+	"sourceSize": {"w":178,"h":327}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "fred.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

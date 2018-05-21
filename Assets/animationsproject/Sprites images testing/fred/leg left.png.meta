@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 7cf8d9ffcd6995a4e8e03a572bed624c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leg left_0
+    21300002: leg left_1
+    21300004: leg left_2
+    21300006: leg left_3
+    21300008: leg left_4
+    21300010: leg left_5
+    21300012: leg left_6
+    21300014: leg left_7
+    21300016: leg left_8
+    21300018: leg left_9
+    21300020: leg left_10
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leg left_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: -0.27639517, y: 1.1047894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d8d8797810fd0429f9dfb055b3fda8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 220
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73402363, y: 0.95741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97abec84bd24b54ba48fc874ceb6b61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 217
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.38345072, y: 0.92275214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916910d6f00a8d44dbfed28eb7cd85dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 216
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.11279806, y: 0.94211817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403db2f459b926b4196e923d50836342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 174
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.05836339, y: 0.95638007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8543319c319f0c2468400887a9d27073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 179
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.05725314, y: 0.9525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a7e11d3ea48f4abc8ead5a64c1441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 173
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.09614478, y: 0.95035946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df7c38c48497e4a8aef61e3af0992d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.86346966, y: 0.91119754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281768153e9ade94aaf78dd8ae55ad29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 37
+        height: 18
+      alignment: 9
+      pivot: {x: 0.9584301, y: 0.8769311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7264b0ec0865204c99d22f8720dadaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9963aa23108d914dba2a66ff8ba8c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg left_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da21f48e53b1d141bbc4238ec9cb655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03c8520279ed58b438bfa570cecbaf16
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

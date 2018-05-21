@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: e722cfdbb39ca6b4e87ea241b228626e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leg right_0
+    21300002: leg right_1
+    21300004: leg right_2
+    21300006: leg right_3
+    21300008: leg right_4
+    21300010: leg right_5
+    21300012: leg right_6
+    21300014: leg right_7
+    21300016: leg right_8
+    21300018: leg right_9
+    21300020: leg right_10
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leg right_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 222
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.043427855, y: 0.9058414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca8973b3a4d7474b839e22dfd09eff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 217
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.059734207, y: 0.8829311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba9ef6611855d47ae1efaafaf6b548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 217
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.19561869, y: 0.8682029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4bc9a42bdeefe4796756bce30c36e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.891348, y: 0.9280362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb56d5884cbf4444ea4c062080c52029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 179
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7676455, y: 0.9058414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28ee27c40eee244bf520a5f163d44a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4007449, y: 0.95657194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b8f4c16deb1384c8c868fb61f531a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 150
+        width: 37
+        height: 18
+      alignment: 9
+      pivot: {x: 0.9318924, y: 0.8297458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c29306a1a5ed24ca40e9f414d1c9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 33
+        height: 20
+      alignment: 9
+      pivot: {x: 0.8873943, y: 0.9337425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18309d8699407b04d8e9c819e5a88a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.18760853, y: 0.89950037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024692290ef31a43b461572b134d724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 32
+        height: 18
+      alignment: 9
+      pivot: {x: 0.9565718, y: 0.8297458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44ed6f320b7ec479d4551c665c95a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leg right_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 104
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.92971486, y: 0.82816076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69abd879e6f5b940a21475c89b6b78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d55310c6c6c33f742967213fe1fad67e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
