@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"cloud 6 instantie 10000":
+{
+	"frame": {"x":0,"y":0,"w":148,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":144},
+	"sourceSize": {"w":148,"h":144}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "Cloud 1.png",
+	"format": "RGBA8888",
+	"size": {"w":148,"h":140},
+	"scale": "1"
+}
+}
