@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"clouds instantie 10000":
+{
+	"frame": {"x":163,"y":315,"w":145,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":108,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10001":
+{
+	"frame": {"x":8,"y":346,"w":138,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10002":
+{
+	"frame": {"x":318,"y":315,"w":138,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10003":
+{
+	"frame": {"x":171,"y":172,"w":170,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":14,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10004":
+{
+	"frame": {"x":318,"y":456,"w":129,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":12,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10005":
+{
+	"frame": {"x":333,"y":8,"w":149,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":13,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10006":
+{
+	"frame": {"x":351,"y":162,"w":130,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":34,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10007":
+{
+	"frame": {"x":171,"y":8,"w":152,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":28,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10008":
+{
+	"frame": {"x":8,"y":8,"w":153,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":21,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+},
+"clouds instantie 10009":
+{
+	"frame": {"x":8,"y":194,"w":145,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":39,"w":250,"h":248},
+	"sourceSize": {"w":250,"h":248}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "clouds.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}
