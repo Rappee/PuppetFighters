@@ -24,6 +24,8 @@ public class PlayerController : MonoBehaviour {
 
 	private Rigidbody2D rb;
 	private Collider2D collider;
+	public GameObject cloudsPuff;
+	private ParticleSystem landingParticles;
 
 	void Start () {
 		collider = GetComponentInChildren<BoxCollider2D> ();
@@ -112,6 +114,14 @@ public class PlayerController : MonoBehaviour {
 			}
 		}
 	}
+
+	void MakeLandingParticles() {
+		Vector3 down = new Vector3 (0, -this.collider.bounds.extents.y, 0);
+		GameObject clouds = Instantiate (cloudsPuff, this.transform.position + down, this.transform.rotation) as GameObject;
+		landingParticles = clouds.GetComponent<ParticleSystem> ();
+		landingParticles.Play ();
+		Destroy (clouds, landingParticles.duration);
+	}
 		
 
 	// collisions
@@ -120,6 +130,7 @@ public class PlayerController : MonoBehaviour {
 		if (col.gameObject.tag.Equals ("Ground")) {
 			isGrounded = true;
 			canDoubleJump = true;
+			MakeLandingParticles ();
 		} else if (col.gameObject.tag.Equals ("Wall")) {
 			isOnWall = true;
 		}
