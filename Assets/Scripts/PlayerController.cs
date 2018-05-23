@@ -95,7 +95,7 @@ public class PlayerController : MonoBehaviour {
 
 	void WallJump(bool wallonleft) {
 		if (wallonleft) {
-			if (horizontal < 0.1f) {
+			if (horizontal < 0.01f) {
 				print ("walljump straight up");
 				rb.velocity = new Vector2 (wallJumpSpeedX/2, wallJumpSpeedY);
 			} else {
@@ -103,7 +103,7 @@ public class PlayerController : MonoBehaviour {
 				rb.velocity = new Vector2 (wallJumpSpeedX, wallJumpSpeedY);
 			}
 		} else {
-			if (horizontal > -0.1f) {
+			if (horizontal > -0.01f) {
 				print ("walljump straight up");
 				rb.velocity = new Vector2 (-wallJumpSpeedX/2, wallJumpSpeedY);
 			} else {
